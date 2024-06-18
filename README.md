@@ -6,6 +6,8 @@ Este proyecto de Computacion grafica el 90% del proyecto fue hecho por Jamal, el
 
 
 El primero juego es el famoso y conocido tetris.
+![image](https://github.com/Jamal25-ia/Three-Play/assets/76519029/1d9b573b-8621-4fc0-86d4-92e21f5ad806)
+![image](https://github.com/Jamal25-ia/Three-Play/assets/76519029/dbd890e4-d5d4-4a15-9314-04b1d8a32d75)
 
 el segundo Juego es un juego de el ahorcado.
 
